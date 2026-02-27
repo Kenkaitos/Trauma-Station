@@ -3137,3 +3137,10 @@ Entries:
   id: 379
   time: '2026-02-27T00:33:32.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/886
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed mech melee weapons' wideswing not working properly.
+  id: 380
+  time: '2026-02-27T17:02:31.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/900
