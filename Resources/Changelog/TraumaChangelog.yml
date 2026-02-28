@@ -3194,3 +3194,12 @@ Entries:
   id: 386
   time: '2026-02-28T16:16:58.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/913
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      NTR scanning no longer teleports items to CentComm, lock up your
+      contraband.
+  id: 387
+  time: '2026-02-28T16:57:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/914
