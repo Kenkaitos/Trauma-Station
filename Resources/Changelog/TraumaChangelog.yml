@@ -3638,3 +3638,10 @@ Entries:
   id: 430
   time: '2026-03-05T16:26:17.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1023
+- author: MayasMischief
+  changes:
+  - type: Remove
+    message: Removed BSO.
+  id: 431
+  time: '2026-03-06T00:57:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1039
