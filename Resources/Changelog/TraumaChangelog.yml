@@ -3942,3 +3942,14 @@ Entries:
   id: 464
   time: '2026-03-09T05:27:38.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1143
+- author: TurboTrackerss14
+  changes:
+  - type: Tweak
+    message: Baseball bats now break in 20 hits instead of 30.
+  - type: Remove
+    message: Stamina damage from baseball bat.
+  - type: Fix
+    message: Reenabled shivs breaking after 10 hits.
+  id: 465
+  time: '2026-03-09T07:05:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1142
