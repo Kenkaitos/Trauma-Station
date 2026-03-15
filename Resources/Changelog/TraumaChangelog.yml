@@ -4521,3 +4521,10 @@ Entries:
   id: 531
   time: '2026-03-15T09:11:52.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1319
+- author: MayasMischief
+  changes:
+  - type: Remove
+    message: Removed BSO
+  id: 532
+  time: '2026-03-15T09:27:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1206
