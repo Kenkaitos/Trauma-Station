@@ -4638,3 +4638,10 @@ Entries:
   id: 544
   time: '2026-03-16T09:14:32.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1350
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Changed human sprites to use the good white dream ones.
+  id: 545
+  time: '2026-03-16T10:38:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1348
