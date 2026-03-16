@@ -4618,3 +4618,16 @@ Entries:
   id: 542
   time: '2026-03-16T06:05:57.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1344
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Vending machine mimics are butcherable instead of their can projectiles.
+  - type: Fix
+    message: Fixed energy shields not being usable after recharging.
+  - type: Fix
+    message: >-
+      Fixed random sentience things like hydro trays not understanding languages
+      properly.
+  id: 543
+  time: '2026-03-16T08:41:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1346
