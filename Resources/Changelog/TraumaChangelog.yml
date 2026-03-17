@@ -4765,3 +4765,10 @@ Entries:
   id: 559
   time: '2026-03-17T20:52:47.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1390
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Removed chud huge snake tail marking from lizards.
+  id: 560
+  time: '2026-03-17T22:53:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1393
