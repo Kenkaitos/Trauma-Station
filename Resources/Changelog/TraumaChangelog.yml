@@ -4824,3 +4824,10 @@ Entries:
   id: 566
   time: '2026-03-18T08:55:59.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1408
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Added bugs related to damaging mobs, go find them!
+  id: 567
+  time: '2026-03-18T09:21:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1391
