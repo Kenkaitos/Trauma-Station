@@ -4959,3 +4959,10 @@ Entries:
   id: 582
   time: '2026-03-19T16:37:17.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1441
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Most head lockers now contain a box of spare skillchips.
+  id: 583
+  time: '2026-03-19T18:17:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1442
