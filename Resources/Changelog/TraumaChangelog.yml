@@ -5224,3 +5224,10 @@ Entries:
   id: 615
   time: '2026-03-22T14:47:55.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1527
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Removed raiders
+  id: 616
+  time: '2026-03-22T21:55:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1531
