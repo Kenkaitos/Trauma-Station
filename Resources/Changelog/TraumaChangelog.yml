@@ -5396,3 +5396,10 @@ Entries:
   id: 632
   time: '2026-03-25T07:58:34.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1567
+- author: TurboTrackerss14
+  changes:
+  - type: Fix
+    message: Add missing role overrides for Virologist, Roboticist, and Geneticist.
+  id: 633
+  time: '2026-03-25T11:11:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1569
