@@ -5387,3 +5387,12 @@ Entries:
   id: 631
   time: '2026-03-24T22:04:26.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1563
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Fixed abductor glands like EMP and grav activating as soon as you
+      installed them.
+  id: 632
+  time: '2026-03-25T07:58:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1567
