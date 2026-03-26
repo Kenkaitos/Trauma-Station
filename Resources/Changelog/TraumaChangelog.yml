@@ -5526,3 +5526,10 @@ Entries:
   id: 649
   time: '2026-03-26T20:23:05.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1604
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Conveyors no longer need knowledge to place on the floor...
+  id: 650
+  time: '2026-03-26T20:38:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1608
