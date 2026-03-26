@@ -5489,3 +5489,10 @@ Entries:
   id: 644
   time: '2026-03-26T12:18:16.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1594
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed xenos being able to spawn on the ATS
+  id: 645
+  time: '2026-03-26T15:00:24.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1599
