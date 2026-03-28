@@ -5613,3 +5613,13 @@ Entries:
   id: 660
   time: '2026-03-28T11:03:20.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1634
+- author: HRP sec main
+  changes:
+  - type: Add
+    message: >-
+      Added contraband tags to cleaver, kitchen knife, clown hardsuit, luxury
+      mining hardsuit, atmos firesuit & helmet, paramedic voidsuit and sharp
+      surgery tools.
+  id: 661
+  time: '2026-03-28T11:38:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1620
