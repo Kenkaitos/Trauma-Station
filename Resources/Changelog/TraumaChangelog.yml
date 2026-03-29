@@ -5711,3 +5711,10 @@ Entries:
   id: 670
   time: '2026-03-29T10:21:29.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1613
+- author: Bon-Man
+  changes:
+  - type: Add
+    message: Added ID Card for D-Class
+  id: 671
+  time: '2026-03-29T10:56:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1664
