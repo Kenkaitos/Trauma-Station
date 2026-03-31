@@ -6033,3 +6033,12 @@ Entries:
   id: 697
   time: '2026-03-31T19:53:33.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1747
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Surgically installing a shadow demon's heart now makes you weak to light
+      too...
+  id: 698
+  time: '2026-03-31T23:06:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1755
