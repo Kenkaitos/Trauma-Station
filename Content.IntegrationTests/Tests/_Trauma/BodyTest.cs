@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.IntegrationTests.Fixtures;
 using Content.Medical.Shared.Body;
 using Content.Shared.Body;
 using Content.Shared.Humanoid;
@@ -12,7 +13,7 @@ using System.Collections.Generic;
 namespace Content.IntegrationTests.Tests._Trauma;
 
 [TestFixture]
-public sealed class BodyTest
+public sealed class BodyTest : GameTest
 {
     /// <summary>
     /// Makes sure that every mob with a Body has a root part (torso).
@@ -20,7 +21,7 @@ public sealed class BodyTest
     [Test]
     public async Task BodyRootPartExists()
     {
-        await using var pair = await PoolManager.GetServerClient();
+        var pair = Pair;
         var server = pair.Server;
 
         var entMan = server.EntMan;
@@ -46,8 +47,6 @@ public sealed class BodyTest
                 }
             });
         });
-
-        await pair.CleanReturnAsync();
     }
 
     /// <summary>
@@ -56,7 +55,7 @@ public sealed class BodyTest
     [Test]
     public async Task BodyRestoreTest()
     {
-        await using var pair = await PoolManager.GetServerClient();
+        var pair = Pair;
         var server = pair.Server;
 
         var entMan = server.EntMan;
@@ -111,8 +110,6 @@ public sealed class BodyTest
                 }
             });
         });
-
-        await pair.CleanReturnAsync();
     }
 
     /// <summary>
@@ -123,7 +120,7 @@ public sealed class BodyTest
     [Test]
     public async Task BodyMarkingsTest()
     {
-        await using var pair = await PoolManager.GetServerClient();
+        var pair = Pair;
         var server = pair.Server;
 
         var entMan = server.EntMan;
@@ -181,8 +178,6 @@ public sealed class BodyTest
                     Assert.Fail(string.Join("\n", errors));
             });
         });
-
-        await pair.CleanReturnAsync();
     }
 
     // TODO: more stuff!
