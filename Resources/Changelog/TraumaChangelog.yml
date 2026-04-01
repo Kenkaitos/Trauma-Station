@@ -6051,3 +6051,10 @@ Entries:
   id: 699
   time: '2026-04-01T00:47:04.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1758
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed defib using total damage instead of vital damage.
+  id: 700
+  time: '2026-04-01T00:58:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1760
