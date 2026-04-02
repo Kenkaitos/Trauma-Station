@@ -6162,3 +6162,10 @@ Entries:
   id: 710
   time: '2026-04-02T10:15:15.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1787
+- author: Armok, AsardonicSailor
+  changes:
+  - type: Add
+    message: Add the wailing horse
+  id: 711
+  time: '2026-04-02T16:58:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1767
