@@ -6333,3 +6333,10 @@ Entries:
   id: 732
   time: '2026-04-03T23:07:27.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1825
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Lowered loop from 70p max to 40p...
+  id: 733
+  time: '2026-04-03T23:26:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1844
