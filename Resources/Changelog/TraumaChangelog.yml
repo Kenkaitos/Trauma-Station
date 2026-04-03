@@ -6236,3 +6236,12 @@ Entries:
   id: 719
   time: '2026-04-03T01:43:58.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1805
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Fixed ripper, rocket and dolphin gloves not having equipped clothing
+      sprites.
+  id: 720
+  time: '2026-04-03T01:46:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1808
