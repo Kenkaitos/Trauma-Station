@@ -6382,3 +6382,12 @@ Entries:
   id: 739
   time: '2026-04-04T14:45:48.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1857
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed lathes not linked to a silo deleting materials.
+  - type: Fix
+    message: Fixed supermatter ashing you if you go near it with sandevistan on.
+  id: 740
+  time: '2026-04-04T14:47:31.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1862
