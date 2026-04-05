@@ -6447,3 +6447,12 @@ Entries:
   id: 746
   time: '2026-04-05T07:49:10.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1873
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: >-
+      Removed plague mouse event since plague mice had their diseases removed a
+      while ago.
+  id: 747
+  time: '2026-04-05T14:15:07.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1876
