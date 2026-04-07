@@ -50,7 +50,7 @@ public sealed class BodyTest : GameTest
     }
 
     /// <summary>
-    /// Makes sure that every mob with a Body can have all of its organs removed and restored, remaining the same.
+    /// Makes sure that every species mob can have all of its organs removed and restored, remaining the same.
     /// </summary>
     [Test]
     public async Task BodyRestoreTest()
@@ -59,26 +59,22 @@ public sealed class BodyTest : GameTest
         var server = pair.Server;
 
         var entMan = server.EntMan;
-        var factory = entMan.ComponentFactory;
         var protoMan = server.ProtoMan;
         var bodySys = entMan.System<BodySystem>();
         var restoreSys = entMan.System<BodyRestoreSystem>();
 
         var map = await pair.CreateTestMap();
 
-        var bodyName = factory.GetComponentName<BodyComponent>();
         var started = new HashSet<string>();
         var ended = new HashSet<string>();
         await server.WaitAssertion(() =>
         {
             Assert.Multiple(() =>
             {
-                foreach (var proto in protoMan.EnumeratePrototypes<EntityPrototype>())
+                foreach (var species in protoMan.EnumeratePrototypes<SpeciesPrototype>())
                 {
-                    if (pair.IsTestPrototype(proto) || !proto.Components.ContainsKey(bodyName))
-                        continue;
-
-                    var mob = entMan.SpawnEntity(proto.ID, map.GridCoords);
+                    var proto = species.Prototype;
+                    var mob = entMan.SpawnEntity(proto, map.GridCoords);
                     // get the starting list of organs
                     started.Clear();
                     foreach (var organ in bodySys.GetOrgans(mob))
