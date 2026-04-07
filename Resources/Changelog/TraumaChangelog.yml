@@ -6521,3 +6521,14 @@ Entries:
   id: 755
   time: '2026-04-07T21:14:59.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1887
+- author: Aviu
+  changes:
+  - type: Add
+    message: Antags, deathsquad, hecu, antag reinforcements have skills now.
+  - type: Fix
+    message: Skills now transfer on polymorph.
+  - type: Tweak
+    message: Buffed sec and nukie skills slightly.
+  id: 756
+  time: '2026-04-07T21:29:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1852
