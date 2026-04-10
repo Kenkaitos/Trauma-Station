@@ -6708,3 +6708,28 @@ Entries:
   id: 778
   time: '2026-04-10T20:29:16.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1968
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Added station traits from /tg/station, they can randomly change your shift
+      for better or for worse!
+  - type: Add
+    message: >-
+      Added the station report which is made 30 seconds into the round,
+      currently it just shows the station traits picked.
+  - type: Fix
+    message: >-
+      Fixed being able to spawn on antag ships if a map had no spawnpoint for
+      your job.
+  - type: Add
+    message: >-
+      Added radiation storms, they can rarely occur naturally or more often with
+      a station trait. Hide in maints or get a radsuit to survive!
+  - type: Add
+    message: >-
+      Added carp migrations, a school of carp will try to break into the
+      station!
+  id: 779
+  time: '2026-04-10T20:35:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1870
