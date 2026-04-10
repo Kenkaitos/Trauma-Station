@@ -6662,3 +6662,12 @@ Entries:
   id: 772
   time: '2026-04-10T09:24:38.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1954
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Shutters now need jaws of life to pry when powered, and can now also be
+      pried by hand when unpowered.
+  id: 773
+  time: '2026-04-10T14:10:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1936
