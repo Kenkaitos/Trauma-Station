@@ -6829,3 +6829,10 @@ Entries:
   id: 789
   time: '2026-04-13T10:34:16.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1999
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed explosive cord not chain exploding.
+  id: 790
+  time: '2026-04-13T10:48:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2000
