@@ -7021,3 +7021,10 @@ Entries:
   id: 813
   time: '2026-04-16T18:00:50.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2056
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed QM and cargo techs not being able to make crates.
+  id: 814
+  time: '2026-04-16T20:43:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2082
