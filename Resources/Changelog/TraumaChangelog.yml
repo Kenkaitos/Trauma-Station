@@ -7089,3 +7089,10 @@ Entries:
   id: 821
   time: '2026-04-18T15:09:24.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2110
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed sergeant loadouts being in wrong slot.
+  id: 822
+  time: '2026-04-18T20:56:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2113
