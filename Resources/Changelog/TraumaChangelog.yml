@@ -7096,3 +7096,10 @@ Entries:
   id: 822
   time: '2026-04-18T20:56:26.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2113
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed energy chem infinite energy shitcode...
+  id: 823
+  time: '2026-04-18T21:31:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2116
