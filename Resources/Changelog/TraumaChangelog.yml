@@ -7150,3 +7150,24 @@ Entries:
   id: 828
   time: '2026-04-19T10:48:14.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2017
+- author: Aineias1
+  changes:
+  - type: Add
+    message: >-
+      Added Genetics to following maps:
+      Delta,Meta,Oasis,Origin,Kettle,Marathon,Leonid,Amber,Atlas,Packed.
+  - type: Add
+    message: Added Phones to most maps, excluding small, lowpop maps like Omega.
+  - type: Add
+    message: Added Radios and Radio Host to Saltern.
+  - type: Tweak
+    message: 'Following maps are back in rotation: Atlas, Amber, Cluster, Omega, Packed.'
+  - type: Tweak
+    message: Reworked Meta Genpop.
+  - type: Fix
+    message: >-
+      Fixed Origin Station cargo depending on ONE FUCKING APC THAT WAS OUTSIDE
+      CARGO.
+  id: 829
+  time: '2026-04-19T17:21:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2074
