@@ -7126,3 +7126,14 @@ Entries:
   id: 826
   time: '2026-04-19T09:19:49.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2121
+- author: Aviu
+  changes:
+  - type: Add
+    message: Added 2 new abilities for heretic blade path.
+  - type: Tweak
+    message: Taking damage no longer breaks standing up do-after.
+  - type: Fix
+    message: Fix rust path being able to break reinforced walls before blade upgrade.
+  id: 827
+  time: '2026-04-19T10:45:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2045
